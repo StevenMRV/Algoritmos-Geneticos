@@ -1,6 +1,5 @@
-## Algoritmos-Geneticos
+# Algoritmos-Geneticos
 
-INDICE DE CONTENIDO
 Este repositorio esta destinado a contener los archivos de programacion de la tesis: 
 "OPTIMIZACIÓN DE EDIFICIO CON DISIPADORES DE ENERGIA PASIVOS UTILIZANDO ALGORITMOS
 GENÉTICOS DESARROLLADOS EN PYTHON 3 ADAPTADOS A ETABS". Los archivos en este repositorio
