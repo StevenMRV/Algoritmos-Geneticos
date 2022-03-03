@@ -13,6 +13,7 @@ Codigo usado para el acondicionamiento de la señal de los sismos.
 2. Escalamiento_acelerogramas.m             (Script)
 3. EspectroRespuesta_BetaNewmark2020A.m     (Funcion)
 4. Intensidad_Areas.m                       (Funcion)
+5. EspectroNEC2020A.m                       (Funcion)
 
 # ARCHIVOS PYTHON
 
